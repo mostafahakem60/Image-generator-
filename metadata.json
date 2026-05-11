@@ -1,0 +1,6 @@
+{
+  "name": "AI Media Generator Template1",
+  "description": "Generate AI-powered images and videos from text prompts. Customize this template to build your own media generation app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
